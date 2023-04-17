@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_TestingAssignment", "NUnit_TestingAssignment.csproj", "{987C20E2-99E9-4E03-AFE0-C6875FFDE2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_TestingAssignment.Aut.Tests", "..\NUnit.assignment\NUnit_TestingAssignment.Aut.Tests.csproj", "{E5040325-F4C7-487D-BC02-21451288C643}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B243565-3CE8-49FA-8A60-BC7D453E17FF}"
+	ProjectSection(SolutionItems) = preProject
+		cyclomatic_complexity.txt = cyclomatic_complexity.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987C20E2-99E9-4E03-AFE0-C6875FFDE2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987C20E2-99E9-4E03-AFE0-C6875FFDE2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987C20E2-99E9-4E03-AFE0-C6875FFDE2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987C20E2-99E9-4E03-AFE0-C6875FFDE2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5040325-F4C7-487D-BC02-21451288C643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5040325-F4C7-487D-BC02-21451288C643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5040325-F4C7-487D-BC02-21451288C643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5040325-F4C7-487D-BC02-21451288C643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9B270A-D659-47FE-A005-9376E35C713F}
+	EndGlobalSection
+EndGlobal
