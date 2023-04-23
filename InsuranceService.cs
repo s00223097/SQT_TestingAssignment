@@ -1,4 +1,6 @@
-﻿namespace NUnit_TestingAssignment
+﻿using System.Web;
+
+namespace NUnit_TestingAssignment
 {
     public class InsuranceService
     {
