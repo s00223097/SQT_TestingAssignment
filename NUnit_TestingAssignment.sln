@@ -7,9 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnit_TestingAssignment", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnit_TestingAssignment.Aut.Tests", "..\NUnit.assignment\NUnit_TestingAssignment.Aut.Tests.csproj", "{E5040325-F4C7-487D-BC02-21451288C643}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B243565-3CE8-49FA-8A60-BC7D453E17FF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Frontend", "..\Web_Frontend\Web_Frontend.csproj", "{66599509-4220-4AA1-87FB-FE7BCFB74F14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "..\WebForm\WebForm.csproj", "{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +23,10 @@ Global
 		{E5040325-F4C7-487D-BC02-21451288C643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5040325-F4C7-487D-BC02-21451288C643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5040325-F4C7-487D-BC02-21451288C643}.Release|Any CPU.Build.0 = Release|Any CPU
-		{66599509-4220-4AA1-87FB-FE7BCFB74F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66599509-4220-4AA1-87FB-FE7BCFB74F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66599509-4220-4AA1-87FB-FE7BCFB74F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66599509-4220-4AA1-87FB-FE7BCFB74F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
