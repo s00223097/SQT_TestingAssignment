@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnit_TestingAssignment", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnit_TestingAssignment.Aut.Tests", "..\NUnit.assignment\NUnit_TestingAssignment.Aut.Tests.csproj", "{E5040325-F4C7-487D-BC02-21451288C643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "..\WebForm\WebForm.csproj", "{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "..\WebForm\WebForm.csproj", "{5C59B07B-5AA8-410F-B974-1C1EF21E58A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{E5040325-F4C7-487D-BC02-21451288C643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5040325-F4C7-487D-BC02-21451288C643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5040325-F4C7-487D-BC02-21451288C643}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A12AFA24-1331-4C6C-AE5D-974CE9A7D21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C59B07B-5AA8-410F-B974-1C1EF21E58A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C59B07B-5AA8-410F-B974-1C1EF21E58A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C59B07B-5AA8-410F-B974-1C1EF21E58A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C59B07B-5AA8-410F-B974-1C1EF21E58A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
